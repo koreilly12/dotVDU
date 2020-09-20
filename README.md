@@ -28,4 +28,4 @@ Study Rooms: Class-based (with the people according to the school platform) and 
 Breakout rooms: in-class-specific study spaces, teachers can have access only to a breakout room that students can go to for direct help (think OH)
 Other breakout rooms can be created for specific groups
 
-Hangout Rooms: One main room, people can create “breakout rooms” within it. Audio and Visual Equipped
+Hangout Rooms: One main room, people can create “breakout rooms” within it. Audio,Visual, and sharing equipped for streaming contents, playing games, and random conversation similar to that of random college encounters
